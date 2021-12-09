@@ -1,1 +1,16 @@
-
+ID: 4245,
+Title: "Bug Report",
+Description": -,
+Preconditions": -,
+Steps to reproduce:
+  step1: -,
+  step2: -,
+  step3: -,
+Actual result: -,
+Expected result: -,
+Severity: minor,
+Priority: medium,
+Environment: -,
+Version: -,
+Attachment": -,
+Status": testing
